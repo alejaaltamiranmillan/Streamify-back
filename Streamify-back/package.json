@@ -1,0 +1,17 @@
+{
+  "name": "streamify-back",
+  "version": "1.0.0",
+  "description": "back de app streamify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "streamify"
+  ],
+  "author": "Alejandra Altamiran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
